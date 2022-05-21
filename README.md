@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gauthcodewiz
+- 👀 I’m interested in coding and mathematics
+- 🌱 I’m currently learning geometry
